@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../apu2_gpio.h
+
+/usr/home/diogo/apu_gpio_lib/src/apu2_gpio.c
+stdint.h
+-
+stdlib.h
+-
+fcntl.h
+-
+sys/mman.h
+-
+unistd.h
+-
+apu2_gpio.h
+-
+version.h
+-
+
+version.h
+

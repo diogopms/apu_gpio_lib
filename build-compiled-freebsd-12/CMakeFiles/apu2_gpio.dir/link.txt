@@ -1,0 +1,2 @@
+/usr/bin/ar qc libapu2_gpio.a  CMakeFiles/apu2_gpio.dir/src/apu2_gpio.c.o
+/usr/bin/ranlib libapu2_gpio.a

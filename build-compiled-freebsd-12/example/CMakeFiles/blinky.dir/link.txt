@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/blinky.dir/blinky.c.o  -o blinky  ../libapu2_gpio.a 

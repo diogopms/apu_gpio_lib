@@ -1,0 +1,7 @@
+/usr/home/diogo/apu_gpio_lib/build/CMakeFiles/rebuild_cache.dir
+/usr/home/diogo/apu_gpio_lib/build/CMakeFiles/edit_cache.dir
+/usr/home/diogo/apu_gpio_lib/build/CMakeFiles/apu2_gpio.dir
+/usr/home/diogo/apu_gpio_lib/build/example/CMakeFiles/rebuild_cache.dir
+/usr/home/diogo/apu_gpio_lib/build/example/CMakeFiles/edit_cache.dir
+/usr/home/diogo/apu_gpio_lib/build/example/CMakeFiles/simswap.dir
+/usr/home/diogo/apu_gpio_lib/build/example/CMakeFiles/blinky.dir

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../apu2_gpio.h
+
+/usr/home/diogo/apu_gpio_lib/example/blinky.c
+stdio.h
+-
+unistd.h
+-
+apu2_gpio.h
+-
+
